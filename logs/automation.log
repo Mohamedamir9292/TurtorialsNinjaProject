@@ -1,0 +1,50 @@
+21:06:31.193 [main] INFO  testCases.TC003_LoginDDT - ****Starting login test****
+21:06:33.824 [main] INFO  testCases.TC003_LoginDDT - ****finished login test****
+21:06:33.828 [main] INFO  testCases.TC003_LoginDDT - ****Starting login test****
+21:06:44.453 [main] INFO  testCases.TC003_LoginDDT - ****finished login test****
+21:06:44.459 [main] INFO  testCases.TC003_LoginDDT - ****Starting login test****
+21:06:55.095 [main] INFO  testCases.TC003_LoginDDT - ****finished login test****
+21:06:55.100 [main] INFO  testCases.TC003_LoginDDT - ****Starting login test****
+21:07:06.185 [main] INFO  testCases.TC003_LoginDDT - ****finished login test****
+21:30:53.909 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*****
+21:30:53.997 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Click MyAccount****
+21:30:54.697 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Click Register****
+21:30:54.703 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Passing Customer info****
+21:30:55.090 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Validating expected msg****
+21:30:56.066 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished Testing****
+21:30:59.490 [main] INFO  testCases.TC002_LoginTest - ****Starting login test****
+21:31:01.371 [main] INFO  testCases.TC002_LoginTest - ****Finished login test****
+17:40:57.174 [main] INFO  testCases.TC002_LoginTest - ****Starting login test****
+17:40:58.879 [main] INFO  testCases.TC002_LoginTest - ****Finished login test****
+22:25:00.689 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*****
+22:25:00.782 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Click MyAccount****
+22:25:01.451 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Click Register****
+22:25:01.454 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Passing Customer info****
+22:25:01.953 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Validating expected msg****
+22:25:04.778 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished Testing****
+22:25:09.093 [main] INFO  testCases.TC002_LoginTest - ****Starting login test****
+22:25:10.678 [main] INFO  testCases.TC002_LoginTest - ****Finished login test****
+22:25:15.606 [main] INFO  testCases.TC003_LoginDDT - ****Starting login test****
+22:25:18.045 [main] INFO  testCases.TC003_LoginDDT - ****finished login test****
+22:25:18.050 [main] INFO  testCases.TC003_LoginDDT - ****Starting login test****
+22:25:29.329 [main] INFO  testCases.TC003_LoginDDT - ****finished login test****
+22:25:29.335 [main] INFO  testCases.TC003_LoginDDT - ****Starting login test****
+22:25:40.507 [main] INFO  testCases.TC003_LoginDDT - ****finished login test****
+22:25:40.509 [main] INFO  testCases.TC003_LoginDDT - ****Starting login test****
+22:25:52.179 [main] INFO  testCases.TC003_LoginDDT - ****finished login test****
+22:43:40.190 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest*****
+22:43:40.291 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Click MyAccount****
+22:43:40.943 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Click Register****
+22:43:40.947 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Passing Customer info****
+22:43:42.412 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Validating expected msg****
+22:43:42.463 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished Testing****
+22:43:45.727 [main] INFO  testCases.TC002_LoginTest - ****Starting login test****
+22:43:47.379 [main] INFO  testCases.TC002_LoginTest - ****Finished login test****
+22:43:50.941 [main] INFO  testCases.TC003_LoginDDT - ****Starting login test****
+22:43:53.533 [main] INFO  testCases.TC003_LoginDDT - ****finished login test****
+22:43:53.539 [main] INFO  testCases.TC003_LoginDDT - ****Starting login test****
+22:44:04.369 [main] INFO  testCases.TC003_LoginDDT - ****finished login test****
+22:44:04.375 [main] INFO  testCases.TC003_LoginDDT - ****Starting login test****
+22:44:15.561 [main] INFO  testCases.TC003_LoginDDT - ****finished login test****
+22:44:15.566 [main] INFO  testCases.TC003_LoginDDT - ****Starting login test****
+22:44:26.781 [main] INFO  testCases.TC003_LoginDDT - ****finished login test****
