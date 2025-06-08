@@ -63,11 +63,8 @@ public class BaseClass {
 		
 			switch(br.toLowerCase()) {
 			case "chrome" : capabilities.setBrowserName("chrome"); break;
-			case "edge" : capabilities.setBrowserName("microsoftedge"); break;
-			case "firefox" : capabilities.setBrowserName("firefox"); break;
 			default: System.out.println("No matching browser name"); return;
 			}
-			driver = new RemoteWebDriver(new URL("http://192.168.1.69:4444/wd/hub"), capabilities);
 			
 		}
 		
@@ -96,7 +93,7 @@ public class BaseClass {
 		driver.manage().window().maximize();
 		 
 	}
-	
+	// the following 3 methods will automatically generate a random string that can be used to set email, name, telephone or password dynamically 
 	
 	public String randomString() {
 		String randString = RandomStringUtils.randomAlphabetic(5);
@@ -113,12 +110,14 @@ public class BaseClass {
 		return randPassword;
 	}
 	
+	// tear down method
+	
 	@AfterClass(groups = {"Sanity", "Regression", "Master"})
 	public void tearDown() {
 		driver.close();
 	}
-
-
+	
+	// method to capture screenshot for failing test cases it returns a String for the file path where the screenshot is saved.
 	public String captureScreen(String tname) {
 		
 		String timeStamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());

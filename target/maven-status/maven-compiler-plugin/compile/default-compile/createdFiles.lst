@@ -1,0 +1,13 @@
+pageObjectClasses\MyAccountClass.class
+pageObjectClasses\SearchProduct.class
+testCases\TC004_AddProduct.class
+pageObjectClasses\AccountRegistrationPage.class
+testBase\BaseClass.class
+testCases\TC002_LoginTest.class
+pageObjectClasses\AddProduct.class
+pageObjectClasses\LoginClass.class
+testCases\TC001_AccountRegistrationTest.class
+pageObjectClasses\HomePage.class
+utilities\ExtentReportManager.class
+testCases\TC003_SearchProduct.class
+pageObjectClasses\BasePage.class
